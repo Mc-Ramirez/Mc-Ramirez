@@ -5,12 +5,11 @@ Quality, not Quantity 🎴
 💻 I’m Jr Developer
 
 NOW
-- I’m in second year student of cross-platform applications in the U-Tad (Centro Universitario de Tecnología y Arte Digital) 🌱 
+- I’m in second year student of cross-platform applications in the U-Tad (Centro Universitario de Tecnología y Arte Digital)
 - I’m currently learning Kotlin, Swift, Java & JavaScrip 💥
 
 BIO
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning more about iOS every day
 - 📩 How to reach me
      - afrmillan10@icloud.com
      - www.linkedin.com/in/felipe-ramírez-millán
