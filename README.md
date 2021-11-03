@@ -1,6 +1,4 @@
-Hi world 🌎 
-
-I’m Felipe Ramirez
+Hi world  🌎  I’m Felipe RamÍrez
 
 Quality, not Quantity 🎴
 
