@@ -1,6 +1,6 @@
-Hi world 🌎
+🌎 Hi world 
 I’m Felipe Ramirez
-Quality, not Quantity 🎴
+🎴 Quality, not Quantity 
 
 💻 I’m Jr Developer
 
