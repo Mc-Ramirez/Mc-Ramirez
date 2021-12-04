@@ -6,7 +6,8 @@ Quality, not Quantity 🎴
 
 NOW
 - I’m in second year student of cross-platform applications in the U-Tad (Centro Universitario de Tecnología y Arte Digital)
-- I’m currently learning Kotlin, Swift, Java & JavaScrip 💥
+- I have been able to enjoy and learn with Git, Bootstrap o Docker
+- I’m currently learning Kotlin, Swift, Java & Angular 💥
 
 BIO
 - 👀 I’m interested in learning more about iOS every day
