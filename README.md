@@ -3,7 +3,7 @@ Hi world  🌎  I’m Felipe RamÍrez
 Quality, not Quantity 🎴
 
 💻 I’m Jr Developer
-<a href="url"><img src="https://user-images.githubusercontent.com/73697209/147690700-de63cd04-0987-446c-a04f-5acbd0043247.jpeg" align="right" height="400" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/73697209/147690700-de63cd04-0987-446c-a04f-5acbd0043247.jpeg" align="right" height="350" width="300" ></a>
 
 
 NOW
