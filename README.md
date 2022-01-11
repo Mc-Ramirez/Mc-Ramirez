@@ -13,7 +13,7 @@ NOW
 - I’m currently learning Kotlin, Swift, Java & Angular 💥
 
 BIO
-- 👀 I’m interested in learning more about iOS every day
+- 👀 I’m interested in learning more about BigData every day
 - 📩 How to reach me
      - afrmillan10@icloud.com
      - www.linkedin.com/in/felipe-ramírez-millán
