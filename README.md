@@ -11,6 +11,7 @@ NOW
   (Centro Universitario de Tecnología y Arte Digital)
 - I have been able to enjoy and learn with Git, Bootstrap o Docker
 - I’m currently learning Kotlin, Swift, Java & Angular 💥
+- ⚙️ I use daily: `.Java`, `.Swift`, `.html`, `.css`, `.Git`
 
 BIO
 - 👀 I’m interested in learning more about BigData every day
