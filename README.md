@@ -7,7 +7,7 @@ Quality, not Quantity 🎴
 ### 💻 I’m Jr data scientist
 
 NOW
-- Practices in <b>NEORIS<b>
+- Practices in <b>NEORIS</b>
 - Learning data science
 - ⚙️ Daily use: `Python`
 
