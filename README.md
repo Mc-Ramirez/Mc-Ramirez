@@ -9,13 +9,13 @@ Quality, not Quantity 🎴
 NOW
 - Practices in Neoris
 - Learning data science
-- ⚙️ Daily use: `.Python`
+- ⚙️ Daily use: `Python`
 
 BIO
 - I am a student of cross-platform applications at U-Tad
     (University Center of Technology and Digital Art)
 - I have been able to enjoy and learn with `Git`, `Bootstrap`, `Docker`, `html`, `css`, `Angular`, `.NET`
-- or languages like `.Kotlin`, `.Swift`, `.Java`, `.JavaScrip` or `.C#`💥
+- or languages like `Kotlin`, `Swift`, `Java`, `JavaScrip` or `C#`💥
  
 - 📩 How to reach me
      - afrmillan10@icloud.com
