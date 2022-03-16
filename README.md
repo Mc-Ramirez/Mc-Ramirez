@@ -4,7 +4,7 @@ Hi world  🌎  I’m Felipe RamÍrez
 
 Quality, not Quantity 🎴
 
-### 💻 I’m data scientist
+### 💻 I’m Jr data scientist
 
 NOW
 - Practices in <b>NEORIS<b>
