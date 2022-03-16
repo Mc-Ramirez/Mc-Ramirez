@@ -14,7 +14,8 @@ NOW
 BIO
 - I am a student of cross-platform applications at U-Tad
     (University Center of Technology and Digital Art)
-- I have been able to enjoy and learn with Git, Bootstrap or Docker, Kotlin, Swift, Java and Angular `.Java`, `.Swift`, `.html`, `.css`, `.Git`💥
+- I have been able to enjoy and learn with `.Git`, `.Bootstrap`, `.Docker`, `.html`, `.css`, `.Angular`, `..NET`
+- or languages like `.Kotlin`, `.Swift`, `.Java`, `.JavaScrip` or `.C#`💥
  
 - 📩 How to reach me
      - afrmillan10@icloud.com
