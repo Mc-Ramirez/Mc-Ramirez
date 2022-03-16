@@ -4,7 +4,10 @@ Hi world  🌎  I’m Felipe RamÍrez
 
 Quality, not Quantity 🎴
 
-### 💻 I’m Jr data scientist
+ ```bash
+ ### 💻 I’m Jr data scientist
+```
+
 
 NOW
 - Practices in <b>[NEORIS](https://www.neoris.com/es/home)</b>
@@ -17,9 +20,7 @@ BIO
 - I have been able to enjoy and learn with `Git` `Bootstrap` `Docker` `html` `CSS` `Angular` `Postman` <i>`.NET`</i>
 - or languages like `Kotlin` `Swift` `Java` `JavaScrip` `C#`💥
  
- ```bash
- 
-```
+
  - 📩 How to reach me
      - [E-mail icloud](mailto:afrmillan10@icloud.com) 
      - [Linkedin profile](https://www.linkedin.com/in/felipe-ram%C3%ADrez-millán/)  
