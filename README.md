@@ -2,10 +2,9 @@ Hi world  🌎  I’m Felipe RamÍrez
 
 <a href="url"><img src="https://user-images.githubusercontent.com/73697209/147690700-de63cd04-0987-446c-a04f-5acbd0043247.jpeg" align="right" height="350" width="300" ></a>
 
- ```bash
 Quality, not Quantity 🎴
-```
- ### 💻 I’m Jr data scientist
+
+### 💻 I’m Jr data scientist
 
 
 NOW
