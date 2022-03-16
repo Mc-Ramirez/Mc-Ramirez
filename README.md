@@ -14,7 +14,7 @@ NOW
 BIO
 - I am a student of cross-platform applications at U-Tad
     (University Center of Technology and Digital Art)
-- I have been able to enjoy and learn with `Git` `Bootstrap` `Docker` `html` `CSS` `Angular` `Postman`, `<i>.NET<i>`
+- I have been able to enjoy and learn with `Git` `Bootstrap` `Docker` `html` `CSS` `Angular` `Postman` <i>`.NET`<i>
 - or languages like `Kotlin` `Swift` `Java` `JavaScrip` `C#`💥
  
 - 📩 How to reach me
