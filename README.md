@@ -9,7 +9,7 @@ Quality, not Quantity 🎴
 NOW
 - Practices in Neoris
 - Learning data science
-- - ⚙️ Daily use: `.Python`
+- ⚙️ Daily use: `.Python`
 
 BIO
 - I am a student of cross-platform applications at U-Tad
