@@ -7,14 +7,15 @@ Quality, not Quantity 🎴
 ### 💻 I’m Jr Developer
 
 NOW
-- I’m in second year student of cross-platform applications in the U-Tad
-  (Centro Universitario de Tecnología y Arte Digital)
-- I have been able to enjoy and learn with Git, Bootstrap o Docker
-- I’m currently learning Kotlin, Swift, Java & Angular 💥
-- ⚙️ I use daily: `.Java`, `.Swift`, `.html`, `.css`, `.Git`
+- Practices in Neoris
+- Learning data science
+- - ⚙️ Daily use: `.Python`
 
 BIO
-- 👀 I’m interested in learning more about BigData every day
+- I am a student of cross-platform applications at U-Tad
+    (University Center of Technology and Digital Art)
+- I have been able to enjoy and learn with Git, Bootstrap or Docker, Kotlin, Swift, Java and Angular `.Java`, `.Swift`, `.html`, `.css`, `.Git`💥
+ 
 - 📩 How to reach me
      - afrmillan10@icloud.com
      - www.linkedin.com/in/felipe-ramírez-millán
