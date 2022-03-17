@@ -21,7 +21,8 @@ BIO
 
 
 <p align="center">
-- 📩 How to reach me
+📩 How to reach me
+</br>
 <a href="mailto:afrmillan10@icloud.com"><img width="32px" alt="" title="Send me email" src="email-2.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://www.linkedin.com/in/felipe-ram%C3%ADrez-millán/"><img width="32px" alt="" title="Go to linkedin" src="linkedin.png"/></a>
