@@ -7,12 +7,12 @@ Quality, not Quantity 🎴
 ### 💻 I’m Jr data scientist
 
 
-NOW
+<b>NOW</b>
 - Practices in <b>[NEORIS](https://www.neoris.com/es/home)</b>
 - Learning data science
 - ⚙️ Daily use: `Python`
 
-BIO
+<b>BIO</b>
 - I am a student of cross-platform applications at U-Tad
     (University Center of Technology and Digital Art)
 - I have been able to enjoy and learn with `Git` `Bootstrap` `Docker` `html` `CSS` `Angular` `Postman` <i>`.NET`</i>
