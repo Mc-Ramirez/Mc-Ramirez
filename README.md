@@ -22,6 +22,7 @@ BIO
  - 📩 How to reach me
      - [E-mail icloud](mailto:afrmillan10@icloud.com) 
      - [Linkedin profile](https://www.linkedin.com/in/felipe-ram%C3%ADrez-millán/)  
+<a href="urlEmail"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="email.png"/></a>
 <!---
 Mc-Ramirez/Mc-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
