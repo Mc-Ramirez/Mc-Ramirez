@@ -23,7 +23,7 @@ BIO
      - [E-mail icloud](mailto:afrmillan10@icloud.com) 
      - [Linkedin profile](https://www.linkedin.com/in/felipe-ram%C3%ADrez-millán/)  
 <p align="center">
-<a href="mailto:afrmillan10@icloud.com"><img width="32px" alt="" title="Buy me a coffee" src="email.png"/></a>
+<a href="mailto:afrmillan10@icloud.com"><img width="32px" alt="" title="Send me email" src="email.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <!---
