@@ -20,7 +20,7 @@ BIO
 </br>
  
 <p align="center" margin="5px">
-�How to rea
+How to reach me
 </br>
 </br>
 <a href="mailto:afrmillan10@icloud.com"><img width="32px" alt="" title="Send me email" src="email-2.png"/></a>
