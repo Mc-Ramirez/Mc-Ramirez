@@ -20,8 +20,8 @@ BIO
  
 
 
-<p align="center">
-<p margin="5px">📩 How to reach me</p>
+<p align="center" margin="5px">
+📩 How to reach me
 </br>
 <a href="mailto:afrmillan10@icloud.com"><img width="32px" alt="" title="Send me email" src="email-2.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
