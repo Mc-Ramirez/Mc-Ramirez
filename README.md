@@ -17,11 +17,10 @@ BIO
     (University Center of Technology and Digital Art)
 - I have been able to enjoy and learn with `Git` `Bootstrap` `Docker` `html` `CSS` `Angular` `Postman` <i>`.NET`</i>
 - or languages like `Kotlin` `Swift` `Java` `JavaScrip` `C#`💥
+</br>
  
-
-
 <p align="center" margin="5px">
-📩 How to reach me
+�How to rea
 </br>
 </br>
 <a href="mailto:afrmillan10@icloud.com"><img width="32px" alt="" title="Send me email" src="email-2.png"/></a>
