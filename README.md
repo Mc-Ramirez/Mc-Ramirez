@@ -8,7 +8,7 @@ Quality, not Quantity 🎴
 
 
 <b>NOW</b>
-- Practices in <b>[NEORIS](https://www.neoris.com/es/home)</b>
+- Working in <b>[NEORIS](https://www.neoris.com/es/home)</b>
 - Learning data science
 - ⚙️ Daily use: `Python`
 
