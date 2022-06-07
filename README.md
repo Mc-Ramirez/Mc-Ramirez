@@ -4,7 +4,7 @@ Hi world  🌎  I’m Felipe RamÍrez
 
 Quality, not Quantity 🎴
 
-### 💻 I’m Jr Data analyst
+### 💻 I’m Data analyst
 
 
 <b>NOW</b>
